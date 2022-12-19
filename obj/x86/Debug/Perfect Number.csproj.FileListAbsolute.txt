@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\Math\Perfect Number\Perfect Number\bin\Debug\Perfect Number.exe
+C:\Users\Dell\Desktop\Math\Perfect Number\Perfect Number\bin\Debug\Perfect Number.pdb
+C:\Users\Dell\Desktop\Math\Perfect Number\Perfect Number\obj\x86\Debug\Perfect Number.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Math\Perfect Number\Perfect Number\obj\x86\Debug\Perfect Number.exe
+C:\Users\Dell\Desktop\Math\Perfect Number\Perfect Number\obj\x86\Debug\Perfect Number.pdb
